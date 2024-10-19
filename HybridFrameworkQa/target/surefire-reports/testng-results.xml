@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-19T17:58:26 IST" name="HybridFameworkQa" finished-at="2024-10-19T18:03:10 IST" duration-ms="283565">
+    <groups>
+    </groups>
+    <test started-at="2024-10-19T17:58:26 IST" name="HybridFameworkQaTestCases" finished-at="2024-10-19T18:03:10 IST" duration-ms="283565">
+      <class name="com.Qa.Hybrid.testcases.SearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qa.Hybrid.testcases.SearchTest@2f9f7dcf]" started-at="2024-10-19T18:02:30 IST" name="setup" finished-at="2024-10-19T18:02:42 IST" duration-ms="12397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_searching_with_an_existing_Product_Name()[pri:1, instance:com.Qa.Hybrid.testcases.SearchTest@2f9f7dcf]" started-at="2024-10-19T18:02:42 IST" name="Verify_searching_with_an_existing_Product_Name" finished-at="2024-10-19T18:02:43 IST" duration-ms="817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_searching_with_an_existing_Product_Name -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Qa.Hybrid.testcases.SearchTest@2f9f7dcf]" started-at="2024-10-19T18:02:43 IST" name="teardown" finished-at="2024-10-19T18:02:44 IST" duration-ms="770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qa.Hybrid.testcases.SearchTest@2f9f7dcf]" started-at="2024-10-19T18:02:44 IST" name="setup" finished-at="2024-10-19T18:02:56 IST" duration-ms="12115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_searching_with_an_Nonexisting_Product_Name()[pri:2, instance:com.Qa.Hybrid.testcases.SearchTest@2f9f7dcf]" started-at="2024-10-19T18:02:56 IST" name="Verify_searching_with_an_Nonexisting_Product_Name" finished-at="2024-10-19T18:02:57 IST" duration-ms="618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_searching_with_an_Nonexisting_Product_Name -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Qa.Hybrid.testcases.SearchTest@2f9f7dcf]" started-at="2024-10-19T18:02:57 IST" name="teardown" finished-at="2024-10-19T18:02:58 IST" duration-ms="816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qa.Hybrid.testcases.SearchTest@2f9f7dcf]" started-at="2024-10-19T18:02:58 IST" name="setup" finished-at="2024-10-19T18:03:09 IST" duration-ms="11212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_searching_with_an_Blank_Product_Name()[pri:3, instance:com.Qa.Hybrid.testcases.SearchTest@2f9f7dcf]" started-at="2024-10-19T18:03:09 IST" name="Verify_searching_with_an_Blank_Product_Name" finished-at="2024-10-19T18:03:09 IST" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_searching_with_an_Blank_Product_Name -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Qa.Hybrid.testcases.SearchTest@2f9f7dcf]" started-at="2024-10-19T18:03:09 IST" name="teardown" finished-at="2024-10-19T18:03:10 IST" duration-ms="504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Qa.Hybrid.testcases.SearchTest -->
+      <class name="com.Qa.Hybrid.testcases.RegisterTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qa.Hybrid.testcases.RegisterTest@245b4bdc]" started-at="2024-10-19T17:58:27 IST" name="setup" finished-at="2024-10-19T17:59:14 IST" duration-ms="46536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyRegisteringanAccountbyprovidingonlytheMandatoryfields()[pri:1, instance:com.Qa.Hybrid.testcases.RegisterTest@245b4bdc]" started-at="2024-10-19T17:59:14 IST" name="VerifyRegisteringanAccountbyprovidingonlytheMandatoryfields" finished-at="2024-10-19T17:59:19 IST" duration-ms="5616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRegisteringanAccountbyprovidingonlytheMandatoryfields -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Qa.Hybrid.testcases.RegisterTest@245b4bdc]" started-at="2024-10-19T17:59:19 IST" name="teardown" finished-at="2024-10-19T17:59:20 IST" duration-ms="695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qa.Hybrid.testcases.RegisterTest@245b4bdc]" started-at="2024-10-19T17:59:20 IST" name="setup" finished-at="2024-10-19T17:59:34 IST" duration-ms="13691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyRegisteringanAccountbyprovidingonAlltheMandatoryfields()[pri:2, instance:com.Qa.Hybrid.testcases.RegisterTest@245b4bdc]" started-at="2024-10-19T17:59:34 IST" name="VerifyRegisteringanAccountbyprovidingonAlltheMandatoryfields" finished-at="2024-10-19T17:59:40 IST" duration-ms="6249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRegisteringanAccountbyprovidingonAlltheMandatoryfields -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Qa.Hybrid.testcases.RegisterTest@245b4bdc]" started-at="2024-10-19T17:59:40 IST" name="teardown" finished-at="2024-10-19T17:59:40 IST" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qa.Hybrid.testcases.RegisterTest@245b4bdc]" started-at="2024-10-19T17:59:40 IST" name="setup" finished-at="2024-10-19T17:59:51 IST" duration-ms="10832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyRegisteringanAccountbyprovidingExistingEmail()[pri:3, instance:com.Qa.Hybrid.testcases.RegisterTest@245b4bdc]" started-at="2024-10-19T17:59:51 IST" name="VerifyRegisteringanAccountbyprovidingExistingEmail" finished-at="2024-10-19T18:00:00 IST" duration-ms="8435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRegisteringanAccountbyprovidingExistingEmail -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Qa.Hybrid.testcases.RegisterTest@245b4bdc]" started-at="2024-10-19T18:00:00 IST" name="teardown" finished-at="2024-10-19T18:00:02 IST" duration-ms="2044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qa.Hybrid.testcases.RegisterTest@245b4bdc]" started-at="2024-10-19T18:00:02 IST" name="setup" finished-at="2024-10-19T18:00:14 IST" duration-ms="12636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="withoutfillingAnydeatil()[pri:4, instance:com.Qa.Hybrid.testcases.RegisterTest@245b4bdc]" started-at="2024-10-19T18:00:14 IST" name="withoutfillingAnydeatil" finished-at="2024-10-19T18:00:22 IST" duration-ms="7591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- withoutfillingAnydeatil -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Qa.Hybrid.testcases.RegisterTest@245b4bdc]" started-at="2024-10-19T18:00:22 IST" name="teardown" finished-at="2024-10-19T18:00:22 IST" duration-ms="503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Qa.Hybrid.testcases.RegisterTest -->
+      <class name="com.Qa.Hybrid.testcases.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:00:24 IST" name="setup" finished-at="2024-10-19T18:00:36 IST" duration-ms="12056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_logging_into_the_Application_using_valid_credentials(java.lang.String,java.lang.String)[pri:1, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:00:36 IST" name="Verify_logging_into_the_Application_using_valid_credentials" data-provider="validCredantial" finished-at="2024-10-19T18:00:38 IST" duration-ms="1638" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amotooricap9@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_logging_into_the_Application_using_valid_credentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:00:38 IST" name="teardown" finished-at="2024-10-19T18:00:38 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:00:38 IST" name="setup" finished-at="2024-10-19T18:00:48 IST" duration-ms="9724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_logging_into_the_Application_using_valid_credentials(java.lang.String,java.lang.String)[pri:1, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:00:48 IST" name="Verify_logging_into_the_Application_using_valid_credentials" data-provider="validCredantial" finished-at="2024-10-19T18:01:00 IST" duration-ms="12150" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amotooricap1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_logging_into_the_Application_using_valid_credentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:01:00 IST" name="teardown" finished-at="2024-10-19T18:01:06 IST" duration-ms="6529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:01:06 IST" name="setup" finished-at="2024-10-19T18:01:18 IST" duration-ms="11952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_logging_into_the_Application_using_valid_credentials(java.lang.String,java.lang.String)[pri:1, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:01:18 IST" name="Verify_logging_into_the_Application_using_valid_credentials" data-provider="validCredantial" finished-at="2024-10-19T18:01:26 IST" duration-ms="7448" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amotooricap3@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_logging_into_the_Application_using_valid_credentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:01:26 IST" name="teardown" finished-at="2024-10-19T18:01:27 IST" duration-ms="1293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:01:27 IST" name="setup" finished-at="2024-10-19T18:01:37 IST" duration-ms="9981" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_logging_into_the_Application_using_invalid_credentials()[pri:2, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:01:37 IST" name="Verify_logging_into_the_Application_using_invalid_credentials" finished-at="2024-10-19T18:01:39 IST" duration-ms="1958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_logging_into_the_Application_using_invalid_credentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:01:39 IST" name="teardown" finished-at="2024-10-19T18:01:39 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:01:39 IST" name="setup" finished-at="2024-10-19T18:01:50 IST" duration-ms="10446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_logging_into_the_Application_using_invalid_email_address_and_validPassword()[pri:3, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:01:50 IST" name="Verify_logging_into_the_Application_using_invalid_email_address_and_validPassword" finished-at="2024-10-19T18:01:56 IST" duration-ms="6778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_logging_into_the_Application_using_invalid_email_address_and_validPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:01:56 IST" name="teardown" finished-at="2024-10-19T18:01:57 IST" duration-ms="1010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:01:57 IST" name="setup" finished-at="2024-10-19T18:02:08 IST" duration-ms="10732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_logging_into_the_Application_using_valid_email_address_and_invalidPassword()[pri:4, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:02:08 IST" name="Verify_logging_into_the_Application_using_valid_email_address_and_invalidPassword" finished-at="2024-10-19T18:02:13 IST" duration-ms="4690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_logging_into_the_Application_using_valid_email_address_and_invalidPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:02:13 IST" name="teardown" finished-at="2024-10-19T18:02:13 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:02:13 IST" name="setup" finished-at="2024-10-19T18:02:26 IST" duration-ms="13244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_logging_into_the_Application_using_NO_email_address_and_NOvalidPassword()[pri:5, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:02:26 IST" name="Verify_logging_into_the_Application_using_NO_email_address_and_NOvalidPassword" finished-at="2024-10-19T18:02:30 IST" duration-ms="3536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_logging_into_the_Application_using_NO_email_address_and_NOvalidPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Qa.Hybrid.testcases.LoginTest@5b8dfcc1]" started-at="2024-10-19T18:02:30 IST" name="teardown" finished-at="2024-10-19T18:02:30 IST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Qa.Hybrid.testcases.LoginTest -->
+    </test> <!-- HybridFameworkQaTestCases -->
+  </suite> <!-- HybridFameworkQa -->
+</testng-results>

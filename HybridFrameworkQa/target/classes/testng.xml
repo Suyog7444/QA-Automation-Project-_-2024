@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="HybridFameworkQa">
+	<listeners >
+		<listener class-name="HybridFramework.Qa.Listerners.listeners"></listener>
+	</listeners>
+	<test name="HybridFameworkQaTestCases">
+		<classes>
+			<class name="com.Qa.Hybrid.testcases.RegisterTest" />
+			<class name="com.Qa.Hybrid.testcases.LoginTest" />
+			<class name="com.Qa.Hybrid.testcases.SearchTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
